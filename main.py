@@ -15,8 +15,6 @@ def handle_message(message):
     question = message.text
     response = logic.get_faq(question)
 
-
-
     bot.reply_to(message, response)
 
 if __name__ == "__main__":

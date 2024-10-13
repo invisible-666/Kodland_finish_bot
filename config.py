@@ -1,4 +1,4 @@
 import os
 
-TOKEN = "Token"
+TOKEN = "TOKEN"
 DATABASE = 'support_requests.db'
